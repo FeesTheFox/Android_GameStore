@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GameStore</string>
+    <string name="box">Cart</string>
+    <string name="footer_title">Cart</string>
+    <string name="header_title">Kazakov Nikolay Andreevich</string>
+    <string name="total_price">Total Price: %1$d</string>
+</resources>
